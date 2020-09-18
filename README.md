@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Austin. I am a Computer Science student at the University of Houston.
+
+### 🔬 Research + Write-ups
+- [**KeilForDocker**](https://github.com/au5ton/KeilForDocker): A guide for installing the Keil ARM MDK on macOS and Linux.
+- [@au5ton/docs](https://github.com/au5ton/docs/wiki): Documentation for the undocumented. Explorations into reverse-engineering public and unofficial APIs.
+- [@au5ton/watchdox](https://github.com/au5ton/watchdox): Reverse engineering digital rights management (DRM) used by Blackberry Workspaces to export secure documents.
+- Heights High School, Computer Science UIL: [Using .dat files in Java](https://heightshs.github.io/2017/03/04/dat-files.html)
+- Heights High School, AP Computer Science: [Installing jGrasp on PowerUp Laptops](https://heightshs.github.io/2017/01/04/jgrasp.html)
+
 <!--
 **au5ton/au5ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
