@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Austin. I am a Computer Science student at the University of Houston.
+![Metrics](https://github.com/au5ton/au5ton/blob/master/github-metrics.svg)
 
 ### 🔬 Research + Write-ups
 - [**KeilForDocker**](https://github.com/au5ton/KeilForDocker): A guide for installing the Keil ARM MDK on macOS and Linux.
