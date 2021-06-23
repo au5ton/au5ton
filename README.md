@@ -7,17 +7,12 @@
 - Heights High School, Computer Science UIL: [Using .dat files in Java](https://heightshs.github.io/2017/03/04/dat-files.html)
 - Heights High School, AP Computer Science: [Installing jGrasp on PowerUp Laptops](https://heightshs.github.io/2017/01/04/jgrasp.html)
 
-<!--
-**au5ton/au5ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐️ Favorite Projects
+- [@cougargrades/web](https://github.com/cougargrades/web): 📊 React app that powers cougargrades.io 
+- [@cougargrades/api](https://github.com/cougargrades/api): ☁️ Serverless HTTP API for cougargrades.io 
+- [@au5ton/translate-widget](https://github.com/au5ton/translate-widget): 🌐 An alternative to Google Translate's Website Translator widget that can work with any HTTP backend 
+- [@au5ton/use-atom-feed](https://github.com/au5ton/use-atom-feed): 🎣 React Hook and custom parser for reading Atom feeds.
+- [@au5ton/ethereum-sso](https://github.com/au5ton/ethereum-sso): 🌐 Isomorphic code that simplifies Ethereum/Web3.0 as a single sign-on system 
+- [@au5ton/COSC4353](https://github.com/au5ton/COSC4353): 🏫 .NET 5 + React web app / school assignment
+- [@au5ton/scriptable.app](https://scriptable.austinj.net/): Custom widgets for [Scriptable (iOS)](https://scriptable.app/)
+- [@au5ton/isPowerOn](https://github.com/au5ton/isPowerOn): 🔍 Serverless API to track externally inaccessible metrics
