@@ -10,7 +10,7 @@
 ### ⭐️ Favorite Projects
 - [@cougargrades/web](https://github.com/cougargrades/web): 📊 React app that powers cougargrades.io 
 - [@cougargrades/api](https://github.com/cougargrades/api): ☁️ Serverless HTTP API for cougargrades.io 
-- [@au5ton/translate-widget](https://github.com/au5ton/translate-widget): 🌐 An alternative to Google Translate's Website Translator widget that can work with any HTTP backend 
+- [@au5ton/rosetta](https://github.com/au5ton/rosetta): 🌐 An alternative to Google Translate's Website Translator widget that can work with any HTTP backend 
 - [@au5ton/use-atom-feed](https://github.com/au5ton/use-atom-feed): 🎣 React Hook and custom parser for reading Atom feeds.
 - [@au5ton/ethereum-sso](https://github.com/au5ton/ethereum-sso): 🌐 Isomorphic code that simplifies Ethereum/Web3.0 as a single sign-on system 
 - [@au5ton/COSC4353](https://github.com/au5ton/COSC4353): 🏫 .NET 5 + React web app / school assignment
