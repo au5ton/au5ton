@@ -3,6 +3,7 @@
 ### 🔬 Research + Write-ups
 - [**KeilForDocker**](https://github.com/au5ton/KeilForDocker): A guide for installing the Keil ARM MDK on macOS and Linux.
 - [@au5ton/docs](https://github.com/au5ton/docs/wiki): Documentation for the undocumented. Explorations into reverse-engineering public and unofficial APIs.
+- [@au5ton/plex-watch-history-migration](https://github.com/au5ton/plex-watch-history-migration): Web app to migrate your watch history between Plex servers
 - [@au5ton/watchdox](https://github.com/au5ton/watchdox): Reverse engineering digital rights management (DRM) used by Blackberry Workspaces to export secure documents.
 - Heights High School, Computer Science UIL: [Using .dat files in Java](https://heightshs.github.io/2017/03/04/dat-files.html)
 - Heights High School, AP Computer Science: [Installing jGrasp on PowerUp Laptops](https://heightshs.github.io/2017/01/04/jgrasp.html)
