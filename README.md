@@ -8,6 +8,8 @@
 - Heights High School, Computer Science UIL: [Using .dat files in Java](https://heightshs.github.io/2017/03/04/dat-files.html)
 - Heights High School, AP Computer Science: [Installing jGrasp on PowerUp Laptops](https://heightshs.github.io/2017/01/04/jgrasp.html)
 
+### 
+
 <!--### ⭐️ Favorite Projects
 - [@cougargrades/web](https://github.com/cougargrades/web): 📊 React app that powers cougargrades.io 
 - [@cougargrades/api](https://github.com/cougargrades/api): ☁️ Serverless HTTP API for cougargrades.io 
@@ -16,4 +18,7 @@
 - [@au5ton/ethereum-sso](https://github.com/au5ton/ethereum-sso): 🌐 Isomorphic code that simplifies Ethereum/Web3.0 as a single sign-on system 
 - [@au5ton/COSC4353](https://github.com/au5ton/COSC4353): 🏫 .NET 5 + React web app / school assignment
 - [@au5ton/scriptable.app](https://scriptable.austinj.net/): Custom widgets for [Scriptable (iOS)](https://scriptable.app/)
-- [@au5ton/isPowerOn](https://github.com/au5ton/isPowerOn): 🔍 Serverless API to track externally inaccessible metrics-->
+- [@au5ton/isPowerOn](https://github.com/au5ton/isPowerOn): 🔍 Serverless API to track externally inaccessible metrics
+- [@au5ton/stego](https://github.com/au5ton/codered-steganography): CodeRED Liftoff (2015) hackathon project for proof-of-concept steganography with PNG images.
+- [@au5ton/isPowerOn](https://github.com/au5ton/isPowerOn): Serverless API to track externally inaccessible metrics
+-->
