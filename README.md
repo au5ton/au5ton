@@ -1,14 +1,19 @@
 <!--![Metrics](https://github.com/au5ton/au5ton/blob/master/github-metrics.svg)-->
 
+### ⭐️ Favorite Projects
+- **[CougarGrades.io](https://cougargrades.io)**: 📊 Analyze grade distribution data for any past University of Houston course
+- **[Bomb Flip](https://au5ton.github.io/BombFlip/)**: 🕹 Tile flipping puzzle game for iOS/Apple Silicon inspired by "Voltorb Flip"
+- [@au5ton/rosetta](https://github.com/au5ton/rosetta): 🌐 An alternative to Google Translate's Website Translator widget that can work with any HTTP backend
+- [@au5ton/plex-watch-history-migration](https://github.com/au5ton/plex-watch-history-migration): 📽 Web app to migrate your watch history between Plex servers
+
 ### 🔬 Research + Write-ups
 - [**KeilForDocker**](https://github.com/au5ton/KeilForDocker): A guide for installing the Keil ARM MDK on macOS and Linux.
 - [@au5ton/docs](https://github.com/au5ton/docs/wiki): Documentation for the undocumented. Explorations into reverse-engineering public and unofficial APIs.
-- [@au5ton/plex-watch-history-migration](https://github.com/au5ton/plex-watch-history-migration): Web app to migrate your watch history between Plex servers
 - [@au5ton/watchdox](https://github.com/au5ton/watchdox): Reverse engineering digital rights management (DRM) used by Blackberry Workspaces to export secure documents.
 - Heights High School, Computer Science UIL: [Using .dat files in Java](https://heightshs.github.io/2017/03/04/dat-files.html)
 - Heights High School, AP Computer Science: [Installing jGrasp on PowerUp Laptops](https://heightshs.github.io/2017/01/04/jgrasp.html)
 
-### 
+
 
 <!--### ⭐️ Favorite Projects
 - [@cougargrades/web](https://github.com/cougargrades/web): 📊 React app that powers cougargrades.io 
